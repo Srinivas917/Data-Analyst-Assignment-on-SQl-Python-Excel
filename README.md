@@ -2,8 +2,8 @@
  This project involves analyzing sales transaction data to evaluate business performance and derive actionable insights. The tasks include data extraction, cleaning, analysis, and reporting using SQL, Python, and Excel.
 
 Dataset:
-Dataset: Adult Income Dataset
-Download: The dataset can be downloaded as adult.data from here.
+Dataset: Adult Income Dataset: https://archive.ics.uci.edu/ml/datasets/adult
+Download: The dataset can be downloaded as adult.data from here: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
 
 Tasks:
 1. Python (Pandas) Task:
